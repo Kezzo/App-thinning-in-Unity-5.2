@@ -1,0 +1,21 @@
+ManifestFileVersion: 0
+CRC: 3600548944
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a31a183275ac6e26e6b8787c837f8765
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ac4ad4a9b4e5b2e0ba08f3ecef76be3c
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/AssetBundleSample/TestAssets/MyMaterial.mat
+Dependencies:
+- AssetBundles/iOS/texture.unity3d
